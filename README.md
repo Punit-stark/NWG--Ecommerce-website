@@ -1,3 +1,6 @@
+how you can watch live this project 
+Link:  https://punit-stark.github.io/NWG-Ecommerce-website/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
