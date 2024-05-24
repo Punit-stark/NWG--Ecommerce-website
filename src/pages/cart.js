@@ -72,7 +72,7 @@ function Cart() {
                                     </td>
                                     <td className='text-center d-flex justify-content-between'>
                                         <div className='d-flex align-items-center text-center'>
-                                        <BiRupee size={21} />
+                                        <BiRupee size={21}/>
                                         {(item?.price * item?.qty).toFixed(2)}
                                         </div>
                                         <button className='btn btn-sm btn-fdanger' onClick={()=>removeHandler(item?.id)}>X</button>
